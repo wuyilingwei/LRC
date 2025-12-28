@@ -1,3 +1,53 @@
+ALE 1.1 & GNU 3.0
+
+NOTICE: This software is primarily governed by the ANTI-LABOR EXPLOITATION
+LICENSE 1.1 (ALE). The permissions and freedoms granted under the GNU General
+Public License v3.0 (GPL-3.0) below are STRICTLY CONDITIONAL upon the licensee's
+full compliance with all terms of the ALE 1.1. Failure to comply with ALE 1.1
+will result in the automatic suspension of all rights granted under this document.
+
+【Vision】
+I support the Anti-996 movement and actively apply its principles to my projects.
+This is an open license add-on designed to ensure that code is only used by
+non-exploitative entities. We strive for a future where workers are not
+exploited. I believe that protection against exploitation is more fundamental
+than absolute software "freedom," for true freedom can only exist where
+exploitation is absent.
+
+                    ANTI-LABOR EXPLOITATION LICENSE
+                       Version 1.1, Dec 27 2025
+Copyright (c) 2022-2025 wuyilingwei
+
+1. Core Standard:
+   The User must strictly comply with all applicable labor and employment-related
+   laws, regulations, and standards in their jurisdiction. If such laws are
+   non-existent or provide lower protection, the User must comply with the
+   "ILO Declaration on Fundamental Principles and Rights at Work". In all cases,
+   the stricter standard shall prevail.
+
+1. Prohibitions: The User shall not:
+   - Induce employees/contractors to waive legal labor rights.
+   - Withhold or delay wages and benefits.
+   - Refuse to provide necessary labor materials or protective equipment.
+   - Restrict employees from reporting violations to the copyright holder.
+
+2. Violation and Restoration:
+   - Cure Period: Rectify all non-compliant behaviors within 30 calendar days
+     upon notice.
+   - Restoration: Automatic restoration if rectified; otherwise, all licenses
+     are revoked until explicit written reauthorization.
+
+3. Compensation: If the User fails to rectify and continues to use the Work:
+   - Cease Use: Delete all copies within 7 calendar days.
+   - Penalty: Minimum 1,000 USD per confirmed violation (per affected person)
+     to the copyright holder.
+
+4. Conflict and Jurisdiction:
+   - Prevalence: This ALE 1.1 shall prevail in case of any conflict.
+   - Arbitration: Chengdu Arbitration Commission (CDAC) under its current rules.
+
+Acknowledge: Enhanced from the "Anti 996" License v1.0 (Draft).
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -70,7 +120,7 @@ modification follow.
 
                        TERMS AND CONDITIONS
 
-  0. Definitions.
+  1. Definitions.
 
   "This License" refers to version 3 of the GNU General Public License.
 
